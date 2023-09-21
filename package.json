@@ -1,0 +1,20 @@
+{
+  "name": "js-jacks-paint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Natalievo1/JS-Jacks-Paint.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Natalievo1/JS-Jacks-Paint/issues"
+  },
+  "homepage": "https://github.com/Natalievo1/JS-Jacks-Paint#readme",
+  "description": ""
+}
